@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.six-nav{
+    background-color: white;
+    padding: 30Px;
+}
+.home{
+    float: left;
+    overflow: hidden;
+    padding: 0px 5%;
+    margin-left: 10%;
+}
+.shop{
+    float: left;
+    overflow: hidden;
+    padding: 0px 5%;
+}
+.pages{
+    float: left;
+    overflow: hidden;
+    padding: 0px 5%;
+}
+.vegetables{
+    float: left;
+    overflow: hidden;
+    padding: 0px 5%;
+}
+.blog{
+    float: left;
+    overflow: hidden;
+    padding: 0px 5%;
+}
+.flash{
+    float: left;
+    overflow: hidden;
+    padding: 0px 5%;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+}
+a:hover{
+    color: green;
+}
